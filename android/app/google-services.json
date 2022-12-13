@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "741774005074",
+    "firebase_url": "https://realtimesoundmeter-default-rtdb.firebaseio.com",
+    "project_id": "realtimesoundmeter",
+    "storage_bucket": "realtimesoundmeter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741774005074:android:7b30e74f3310c1ef76e08b",
+        "android_client_info": {
+          "package_name": "com.skripsi.iot_firestore_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741774005074-35mggh8rjjdrppjtkv4ov3j5u3tqnjcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skripsi.iot_firestore_flutter_app",
+            "certificate_hash": "34e33d7e9eff27c8c5469027122137b000f59bfa"
+          }
+        },
+        {
+          "client_id": "741774005074-iuog5bsdn9s8flg7pc69rsmm86abbjq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk3dhJvc7nwVjGcXcJV0xMhx41F5G2Aq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741774005074-iuog5bsdn9s8flg7pc69rsmm86abbjq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
